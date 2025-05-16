@@ -8,7 +8,7 @@
 
 ## Demo Video
 
-(https://www.youtube.com/watch?v=YOUR_VIDEO_ID](https://drive.google.com/file/d/1BOCRf1XvoiciYTkrMnMtu9AwIUy0oqvw/view?usp=sharing))
+(https://drive.google.com/file/d/1BOCRf1XvoiciYTkrMnMtu9AwIUy0oqvw/view?usp=sharing))
 *Click the image above to watch the demo video*
 
 ## Overview
