@@ -1,0 +1,13 @@
+[package]
+name = "FlowFi"
+version = "0.1.0"
+upgrade_policy = "compatible"
+
+[addresses]
+flowfi = "0xd4312ab48cb17ea05e6f7dd6719e7e28e04a3ce871e8ad7a92d50fba58d1ccb7"
+std = "0x1"
+aptos_std = "0x1"
+aptos_framework = "0x1"
+
+[dependencies]
+AptosFramework = { git = "https://github.com/aptos-labs/aptos-core.git", rev = "mainnet", subdir = "aptos-move/framework/aptos-framework" }
